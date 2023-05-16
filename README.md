@@ -1,2 +1,3 @@
 # Rock Paper Scissor
-simple rock paper scissor game in cmd write in c#, just for learning purpose
+simple command line rock paper scissor game write in c#
+eh, just for learning purpose
